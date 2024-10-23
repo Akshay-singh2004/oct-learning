@@ -1,2 +1,5 @@
 testing file
+<<<<<<< HEAD
 second file
+=======
+second testing 
